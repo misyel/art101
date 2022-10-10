@@ -1,0 +1,51 @@
+#img {
+    width: 150px;
+}
+
+h1, h2 {
+    color: #E38B29;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: #B1D7B4;
+    margin: 20px;
+    color: #767676;
+}
+
+.card {
+    background-color: #F7F6DC;
+    margin: 20px 5px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a {
+    color: #767676;
+}
+
+li {
+    padding: 5px;
+}
+
+.flexContainer {
+    display: flex;
+}
+
+.flexItem {
+    padding: 10px;
+}

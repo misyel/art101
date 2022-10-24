@@ -1,0 +1,43 @@
+.wrapper {
+    text-align: center;
+}
+
+.outer {
+    display: inline-block;
+    background-color: white;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.upper {
+    background-color: #e9e375;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.center {
+    background-color: white;
+    height: 100px;
+    padding-top: 70px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lower {
+    background-color: #e9e375;
+    height: 30px;
+}
+
+.br-top30 {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.br-bottom30 {
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

@@ -1,0 +1,12 @@
+.wrapper {
+    text-align: center;
+    margin-bottom: 20px;
+}
+#output {
+    display: inline-block;
+    border-radius: 30px;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+}
